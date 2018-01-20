@@ -1,5 +1,6 @@
 ttypes _0xd4ea
-	0 || thrift
+--------------
+    0 || thrift
     1 || Thrift
     2 || Q
     3 || exports
@@ -571,6 +572,7 @@ ttypes _0xd4ea
 
 
 lineservice _0x432c
+-------------------
     0 || thrift
     1 || Thrift
     2 || Q
